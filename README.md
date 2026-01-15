@@ -35,17 +35,14 @@ The goal of this project is to practice and demonstrate:
 5. When exiting the game, a CSV file is automatically generated containing the states that were not guessed.
 
 ## 📁 Project Structure
-
-us-states-guessing-game/
-│
-├── main.py # Main game logic
-├── 50_states.csv # Dataset with state names and coordinates
-├── blank_states_img.gif # Blank U.S. map image
-├── States_to_learn.csv # Generated file with missing states
-└── README.md
-
-yaml
-Copiar código
+  
+us-states-guessing-game/  
+│   
+├── main.py # Main game logic  
+├── 50_states.csv # Dataset with state names and coordinates  
+├── blank_states_img.gif # Blank U.S. map image  
+├── States_to_learn.csv # Generated file with missing states  
+└── README.md  
 
 ---
 
