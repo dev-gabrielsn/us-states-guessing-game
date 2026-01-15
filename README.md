@@ -6,6 +6,9 @@ As correct answers are entered, the state names are displayed directly on a grap
 This project focuses on combining **data handling**, **user interaction**, and **basic graphical interfaces** using Python.
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1228c21e-b7d4-424d-9841-4a3e35088203" alt="us-states-gif">
+</p>   
 
 ## 🎯 Project Purpose
 
